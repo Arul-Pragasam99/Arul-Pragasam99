@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arul Pragasam</h1>
-<h3 align="center">Growing Techie</h3>
+<h3 align="center">Growing Techie☝️</h3>
 
 - 🔭 I’m currently working on **Cyber Security**
 
