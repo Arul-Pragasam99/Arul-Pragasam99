@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **AI&ML**
 
-- 💬 Ask me about **Firebase**
+- 💬 Ask me about **Computer**
 
 - 📫 Discord id **Freakie AR#1364**
 
