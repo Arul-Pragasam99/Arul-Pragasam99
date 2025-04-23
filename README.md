@@ -94,5 +94,5 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" width="400" alt="Ending Animation" />
+  <img src="https://media.giphy.com/media/3o6gE5g6RmZpZp2hQs/giphy.gif" width="400" alt="End Animation" />
 </p>
