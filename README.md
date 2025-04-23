@@ -9,10 +9,6 @@
   <img src="https://komarev.com/ghpvc/?username=arulpragasam99&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</p>
-
 ---
 
 ### 🚀 Diving deep into the world of **Full Stack Development**  
@@ -20,6 +16,12 @@
 ### 🤖 Passionate about **AI**, always up for collaborations and innovations  
 ### 💡 Always up for a chat about tech, tools, or curious computer stuff  
 ### 🌙 Night Owl Coder 🦇 — I debug in the moonlight
+
+---
+
+### 🌐 Stay Connected
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arul-pragasam99)
 
 ---
 
@@ -91,12 +93,6 @@
 
 ---
 
-### 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arul-pragasam99)
-
----
-
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Tech Animation" />
+  <img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" width="400" alt="Ending Animation" />
 </p>
