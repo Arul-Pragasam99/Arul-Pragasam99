@@ -91,6 +91,12 @@
 
 ---
 
+### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arul-pragasam99)
+
+---
+
 <p align="center">
-  <iframe src="https://lottie.host/embed/0e6a6e6c-23da-4d24-b774-fb9aa469bfc3/5vmm9E3iYP.json" style="width:300px;height:300px;border:none;overflow:hidden;" allowfullscreen></iframe>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Tech Animation" />
 </p>
