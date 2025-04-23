@@ -90,5 +90,5 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600" alt="End Tech Animation" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHVvaHFzOHU0cWZ4MmJhcWtvZnRwd2VpYjR6eDVoYXpsOXhiY2F6ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/g9582DNuQppxC/giphy.gif" width="600" alt="Tech End Animation" />
 </p>
