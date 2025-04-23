@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=arulpragasam99&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
 </p>
 
-- 🔭 Currently exploring **Full Stack Development**  
+- 🔭 Currently exploring **Cybersecurity**  
 - 🌱 Learning **TensorFlow**  
 - 🤝 Open to collaboration in **AI & ML**  
 - 💬 Ask me about **Computer Stuff**  
@@ -31,7 +31,9 @@
 
 #### 🧠 AI & ML
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,nltk,scikit-learn" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+  <img src="https://img.shields.io/badge/NLTK-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/HuggingFace-Transformers-yellow?style=flat-square&logo=HuggingFace&logoColor=black" />
 </p>
 
@@ -59,12 +61,12 @@
 
 ---
 
-### 📈 Recent Activity
+### 📈 GitHub Activity Overview
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arulpragasam99&theme=radical" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=arulpragasam99&theme=radical&hide_border=true" alt="GitHub Activity Graph"/>
   <br><br>
-  <img src="https://github-contribution-grid.vercel.app/api?username=arulpragasam99&theme=radical" alt="Contribution Calendar" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=arulpragasam99&theme=radical&hide_border=true" alt="GitHub Contribution Streak"/>
 </p>
 
 ---
