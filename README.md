@@ -2,6 +2,10 @@
 <h3 align="center">Growing Techie ☝️</h3>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Tech Animation" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=arulpragasam99&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
 </p>
 
