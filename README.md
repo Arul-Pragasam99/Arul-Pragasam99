@@ -10,7 +10,7 @@
 </p>
 
 - 🚀 <strong>Exploring:</strong> Full Stack Development  
-- 🧠 <strong>Learning:</strong> TensorFlow & Machine Learning  
+- 🧠 <strong>Learning:</strong> Test Automation & Cybersecurity  
 - 🤖 <strong>Collaborating in:</strong> AI & ML Innovations  
 - 💬 <strong>Ask Me About:</strong> Anything Tech, From Bugs to Big Ideas  
 - 🌙 <strong>Fun Fact:</strong> Night Owl Coder 🦇 — I debug in the moonlight  
@@ -90,5 +90,5 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWU0a2t4eTZyaHJ2bnFkMGx2dDVjMnM0enR1bnk5YjhhYjI0ZDR2NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif" width="600" alt="Tech End Animation" />
+  <iframe src="https://lottie.host/embed/0e6a6e6c-23da-4d24-b774-fb9aa469bfc3/5vmm9E3iYP.json" style="width:300px;height:300px;border:none;overflow:hidden;" allowfullscreen></iframe>
 </p>
