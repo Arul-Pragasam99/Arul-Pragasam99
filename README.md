@@ -5,11 +5,11 @@
   <img src="https://komarev.com/ghpvc/?username=arulpragasam99&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
 </p>
 
-- 🔭 Currently exploring **Full Stack Development**  
-- 🌱 Learning **TensorFlow**  
-- 🤝 Open to collaboration in **AI & ML**  
-- 💬 Ask me about **Computer Stuff**  
-- ⚡ Fun fact: **Works at night 🦇**
+- 🚀 Diving deep into the world of **Full Stack Development**  
+- 🧠 Currently sharpening my skills in **TensorFlow and Machine Learning**  
+- 🤖 Love building stuff with **AI**, and always ready for cool collaborations  
+- 💡 Always up for a chat about tech, tools, or just curious computer stuff  
+- 🌙 I do my best work after dark — yes, I’m basically a **nocturnal coder 🦇**
 
 ### 🌐 Connect with Me
 
@@ -57,14 +57,6 @@
 #### 💻 Operating Systems
 <p>
   <img src="https://skillicons.dev/icons?i=windows,linux" />
-</p>
-
----
-
-### 🔥 Developer Metrics (Live)
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arulpragasam99&theme=radical" alt="Summary Card"/>
 </p>
 
 ---
