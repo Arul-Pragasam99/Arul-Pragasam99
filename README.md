@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=arulpragasam99&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
 </p>
 
-- 🔭 Currently exploring **Cybersecurity**  
+- 🔭 Currently exploring **Full Stack Development**  
 - 🌱 Learning **TensorFlow**  
 - 🤝 Open to collaboration in **AI & ML**  
 - 💬 Ask me about **Computer Stuff**  
@@ -61,12 +61,10 @@
 
 ---
 
-### 📈 GitHub Activity Overview
+### 🔥 Developer Metrics (Live)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=arulpragasam99&theme=radical&hide_border=true" alt="GitHub Activity Graph"/>
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=arulpragasam99&theme=radical&hide_border=true" alt="GitHub Contribution Streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arulpragasam99&theme=radical" alt="Summary Card"/>
 </p>
 
 ---
