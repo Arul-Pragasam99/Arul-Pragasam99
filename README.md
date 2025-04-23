@@ -91,9 +91,4 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
 
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD0jA3O3jtxl7nC/giphy.gif" width="400" alt="End Animation" />
-</p>
 
