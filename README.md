@@ -1,19 +1,21 @@
 <h1 align="center">Hi 👋, I'm Arul Pragasam</h1>
-<h3 align="center">Growing Techie ☝️</h3>
+<h3 align="center">🚀 Growing Techie ☝️</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Tech Animation" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arulpragasam99&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
-</p>
+<div align="center">
 
-- 🚀 Diving deep into the world of **Full Stack Development**  
-- 🧠 Currently sharpening my skills in **TensorFlow and Machine Learning**  
-- 🤖 Love building stuff with **AI**, and always ready for cool collaborations  
-- 💡 Always up for a chat about tech, tools, or just curious computer stuff  
-- 🌙 I do my best work after dark — yes, I’m basically a **nocturnal coder 🦇**
+🚀 <strong>On a Mission:</strong> Mastering the Art of Full Stack Development – From Pixels to Pipelines  
+🧠 <strong>Deep Diving Into:</strong> TensorFlow & Real-World Machine Learning Magic  
+🤖 <strong>Fueling Innovation:</strong> Collaborating on Disruptive AI & ML Projects  
+🧩 <strong>Got a Puzzle?</strong> Let’s Talk Tech – I Speak Fluent Code and Curiosity  
+🌌 <strong>Beyond 9 to 5:</strong> Midnight Debugger 🦇 | My Creativity Glows After Dark
+
+</div>
+
+---
 
 ### 🌐 Connect with Me
 
@@ -24,49 +26,44 @@
 ### 💻 Known Languages and Technologies
 
 #### 🧠 Programming Languages
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,js,c,dart,ts,html,css,sql" />
 </p>
 
 #### ⚙️ Frameworks & Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,flutter,nodejs,express,firebase,dash" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,flutter,nodejs,express,firebase,dash,fastapi" />
 </p>
 
-#### 🧠 AI & ML
-<p>
+#### 🤖 AI & Machine Learning
+<p align="left">
   <img src="https://skillicons.dev/icons?i=tensorflow" />
-  <img src="https://img.shields.io/badge/NLTK-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-Transformers-yellow?style=flat-square&logo=HuggingFace&logoColor=black" />
+  <img src="https://img.shields.io/badge/NLTK-Tokenizing-brightgreen?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-ML-orange?style=flat&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-Transformers-yellow?style=flat&logo=huggingface&logoColor=black" />
 </p>
 
 #### 🔐 Cybersecurity Tools
-<p>
-  <img src="https://img.shields.io/badge/Wireshark-0078D7?style=flat-square&logo=Wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-005F87?style=flat-square&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-ff6600?style=flat-square&logo=burpsuite&logoColor=white" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Wireshark-Protocol Analysis-blue?style=flat&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-Exploit Framework-red?style=flat&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/BurpSuite-Web Security-orange?style=flat&logo=burpsuite&logoColor=white" />
 </p>
 
 #### 🗄️ Databases & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,gcp,aws" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,firebase" />
+  <img src="https://img.shields.io/badge/SQLite-Embedded DB-lightgrey?style=flat&logo=sqlite&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=gcp,aws" />
 </p>
 
-#### 🛠️ Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,androidstudio,figma,photoshop" />
+#### 🧰 Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,androidstudio,figma,photoshop,linux" />
+  <img src="https://img.shields.io/badge/XAMPP-Localhost-orange?style=flat&logo=apache&logoColor=white" />
 </p>
 
-#### 💻 Operating Systems
-<p>
-  <img src="https://skillicons.dev/icons?i=windows,linux" />
-</p>
-
----
-
-### ⚙️ Tools I Use Often
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,react,tailwind,figma,html,css,linux,firebase,flutter,dart,sqlite,mysql,git,github,postman,photoshop,androidstudio" />
+#### 🔧 Most Used Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=github,vscode,figma,firebase,postman,tailwind" />
 </p>
