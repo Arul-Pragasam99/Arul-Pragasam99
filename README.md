@@ -5,6 +5,11 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Tech Animation" />
 </p>
 
+
+<p align="center">
+  <i>Just FYI... some of my repos are "private" 🔒—because, you know, not everything needs to be out in the open, right? 😉</i>
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arulpragasam99&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
 </p>
@@ -91,7 +96,8 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
 
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW04bnJxbWphd2tuNTViZ2RkbnE4ODQ1b3F1b2tic2l0anI5aG85NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nhw1FwkchB2cIozD12/giphy.gif" width="400" alt="GIF Animation" />
-</p>
+---
 
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHM4Y3kxeTJiMjM1ZXhxZmMxbWdrY3FrMWN5MTBrdnpyd3ZqM3FxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcw7Us10ds01xjG/giphy.gif" width="400" alt="Tech GIF" />
+</p>
