@@ -92,6 +92,6 @@
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/images/14709206069756114231/tenor.gif" width="400" alt="The End Earthbound GIF" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW04bnJxbWphd2tuNTViZ2RkbnE4ODQ1b3F1b2tic2l0anI5aG85NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nhw1FwkchB2cIozD12/giphy.gif" width="400" alt="GIF Animation" />
 </p>
 
