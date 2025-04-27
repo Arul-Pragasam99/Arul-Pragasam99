@@ -91,4 +91,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
 
+<p align="center">
+  <img src="https://media.tenor.com/images/14709206069756114231/tenor.gif" width="400" alt="The End Earthbound GIF" />
+</p>
 
