@@ -17,8 +17,8 @@
 ---
 
 ### 🚀 Diving deep into the world of **Full Stack Development**  
-### 🧠 Currently sharpening my skills in **Test Automation and Cybersecurity**  
-### 🤖 Passionate about **AI**, always up for collaborations and innovations  
+### 🧠 Currently sharpening my skills in **AI/ML and Test Automation**  
+### 🤖 Passionate about **AR/VR**, always up for collaborations and innovations  
 ### 💡 Always up for a chat about tech, tools, or curious computer stuff  
 ### 🌙 Night Owl Coder 🦇 — I debug in the moonlight
 
@@ -75,6 +75,7 @@
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
@@ -82,6 +83,7 @@
 
 #### 🛠️ Tools & Platforms
 <p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
