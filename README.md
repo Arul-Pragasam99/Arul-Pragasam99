@@ -27,6 +27,7 @@
 ### 🌐 Stay Connected
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arul-pragasam99)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square)](https://codebyar.netlify.app/)
 
 ---
 
